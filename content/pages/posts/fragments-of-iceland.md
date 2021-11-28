@@ -37,5 +37,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Autor [Cristina Gaitán ](https://unsplash.com/photos/uO4Au3LrCtk)
+Autora [Cristina Gaitán](https://unsplash.com/photos/uO4Au3LrCtk)
+
+@valkiriart\_
 
