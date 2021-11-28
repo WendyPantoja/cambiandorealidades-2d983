@@ -1,6 +1,6 @@
 ---
 title: Cómic 1
-excerpt: Descripción
+excerpt: Descripción.
 date: '2019-03-27'
 thumb_img_path: /images/Boceto.jpg
 thumb_img_alt: Icelandic horses
