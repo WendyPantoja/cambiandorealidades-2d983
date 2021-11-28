@@ -9,8 +9,7 @@ sections:
       La ficción construye realidad.
       Transforma.
       Sensibiliza
-      Acompaña.This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Acompaña.
   - section_id: about
     type: section_content
     title: About
