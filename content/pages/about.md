@@ -34,7 +34,7 @@ layout: page
 
 **Wendy Pantoja** *Programadora*
 
-
+**![](/images/fotoFondoPeque.png)
 
 **Paola Pereira** *Asesora Legal*
 
