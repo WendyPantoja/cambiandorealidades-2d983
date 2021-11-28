@@ -45,4 +45,3 @@ layout: page
 **Gabriel Infante** es comunicador audiovisual de la Universidad de la Sabana, con amplia experiencia en diseño de interfaz y diseño de experiencia de usuario.
 
 **Julián Prias** es ingeniero mecánico de la Universidad de Ibagué, con experiencia en lenguajes de programación como Python, C# y Java.
-
