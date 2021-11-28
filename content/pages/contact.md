@@ -36,7 +36,7 @@ sections:
         label: >-
           Entiendo que este formulario almacena la información que he enviado
           para que puedan ponerse en contacto conmigo.
-    submit_label: Send Message
+    submit_label: enviar
 seo:
   title: Contact
   description: This is the contact page
