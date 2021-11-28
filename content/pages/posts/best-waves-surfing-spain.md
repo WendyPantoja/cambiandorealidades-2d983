@@ -1,7 +1,6 @@
 ---
 subtitle: A intresting tale about Surfing
 date: '2018-01-15'
-thumb_img_path: images/4.jpg
 thumb_img_alt: Three person about to surf
 content_img_path: images/4.jpg
 content_img_alt: Three person about to surf
