@@ -40,6 +40,12 @@ layout: page
 
 **Paola Pereira** es abogada de la Universidad del Norte en Barranquilla, con experiencia en género, feminismo interseccional y asesoría legal.
 
+![](/images/Paola.png)
+
 **Gabriel Infante** es comunicador audiovisual de la Universidad de la Sabana, con amplia experiencia en diseño de interfaz y diseño de experiencia de usuario.
 
+
+
 **Julián Prias** es ingeniero mecánico de la Universidad de Ibagué, con experiencia en lenguajes de programación como Python, C# y Java.
+
+![](/images/Julian.png)
