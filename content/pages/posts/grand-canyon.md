@@ -39,4 +39,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Autor Cristina Gaitán
+**Autora Cristina Gaitán**
+
+@valkiriart\_
