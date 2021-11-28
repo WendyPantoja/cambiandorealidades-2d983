@@ -1,6 +1,6 @@
 ---
 title: Cómic 3
-date: '2019-03-10'
+date: '2021-11-10'
 thumb_img_path: /images/1.1.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: /images/1.1.jpg
