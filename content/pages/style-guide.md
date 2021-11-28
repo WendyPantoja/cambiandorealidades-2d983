@@ -32,7 +32,6 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: page
-img_path: /images/Mockup 2.png
 ---
 ### MUG 1
 
