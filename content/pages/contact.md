@@ -4,8 +4,12 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: |
-      Para ponerte en contacto, llena el siguiente formulario.
+    content: >
+      ¿Estás interesado o interesada en compartir tu trabajo? 
+
+
+      Llena el siguiente formulario y te informaremos de las convocatorias para
+      ilustradores.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
