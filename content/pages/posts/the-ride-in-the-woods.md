@@ -1,7 +1,7 @@
 ---
 title: Cómic 4
 subtitle: A cautionary tale about riding
-date: '2021-11-23'
+date: '2021-11-27'
 thumb_img_path: /images/Boceto 2.jpg
 thumb_img_alt: A motorcycle in a forest
 content_img_path: /images/Boceto 2.jpg
