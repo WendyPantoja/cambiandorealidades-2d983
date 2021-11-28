@@ -64,5 +64,3 @@ Comprar
 Comprar
 
 ## &#xA;&#xA;
-
-La ficción crea realidades.
