@@ -8,7 +8,7 @@ sections:
     content: 'La ficción construye realidad, transforma, sensibiliza y acompaña.'
   - section_id: about
     type: section_content
-    title: Contexto
+    title: Inicio
     content: >-
       Los estereotipos de género les causan dolor a los jóvenes en Colombia. 
       Queremos ayudar a aliviar ese dolor a través de la literatura.
