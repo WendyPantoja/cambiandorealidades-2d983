@@ -29,7 +29,7 @@ sections:
         default_value: Selecciona
         options:
           - Error en el sitio
-          - S
+          - Soy artista
           - Other
       - input_type: textarea
         name: message
