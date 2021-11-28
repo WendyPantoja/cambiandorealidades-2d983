@@ -4,19 +4,15 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Cambiando realidades"
-    content: >-
-      La ficción construye realidad, transforma, sensibiliza y acompaña.
+    title: Cambiando realidades
+    content: 'La ficción construye realidad, transforma, sensibiliza y acompaña.'
   - section_id: about
     type: section_content
     title: Contexto
     content: >-
       Los estereotipos de género les causan dolor a los jóvenes en Colombia. 
       Queremos ayudar a aliviar ese dolor a través de la literatura.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
