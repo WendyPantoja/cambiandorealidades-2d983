@@ -34,7 +34,7 @@ layout: page
 
 ![](/images/cris2.png)
 
-**Wendy Pantoja** es ingeniera electrónica de la Universidad del Nariño, estudiante del Doctorado en Ingeniería en la Universidad de los Andes, con experiencia en lenguajes de programación como C++, Python.
+**Wendy Pantoja** es ingeniera electrónica de la Universidad de Nariño. Además es estudiante del Doctorado en Ingeniería en la Universidad de los Andes, con experiencia en lenguajes de programación como C, C++, Python.
 
 ![](/images/Wendy-b7ae343f.png)
 
