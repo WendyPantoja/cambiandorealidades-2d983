@@ -1,6 +1,5 @@
 ---
 title: Cómic 2
-excerpt: Descripción.
 date: '2019-03-24'
 thumb_img_path: /images/Ilustración_sin_título 2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
