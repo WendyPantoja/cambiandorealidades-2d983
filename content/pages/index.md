@@ -11,7 +11,8 @@ sections:
     type: section_content
     title: About
     content: >-
-      Los estereotipos de género les causan dolor a los jóvenes en Colombia. Queremos ayudar a aliviar ese dolor a través de la literatura.This is the "about" excerpt. It can be used to provide a paragraph about
+      Los estereotipos de género les causan dolor a los jóvenes en Colombia. 
+      Queremos ayudar a aliviar ese dolor a través de la literatura.This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
