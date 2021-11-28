@@ -35,19 +35,43 @@ layout: page
 ---
 ## This is an H2
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+
+
+Comprar
 
 ## This is an H3
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-## This is an H3&#xA;&#xA;
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-> La ficción crea realidades.
 
 
+Comprar
+
+## This is an H3
+
+
+
+Comprar
+
+## &#xA;&#xA;This is an H3
+
+
+
+Comprar
+
+## &#xA;&#xA;This is an H3
+
+
+
+Comprar
+
+## &#xA;&#xA;This is an H3
+
+
+
+Comprar
+
+## &#xA;&#xA;&#xA;&#xA;
+
+La ficción crea realidades.
 
 <hr />
 
@@ -67,44 +91,3 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 4.  Vivamus convallis urna id felis
 5.  Nulla porta tempus sapien
 
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-    <!-- Some example CSS code -->
-    body {
-      color: #333;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.5;
-    }
-
-## Video Embeds
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Tables
-
-<div class="responsive-table">
-  <table>
-    <caption>Simple table with caption and header</caption>
-    <thead>
-      <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
-      </tr>
-      <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
-        <td>Row 2, Cell 3</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
