@@ -36,11 +36,9 @@ layout: page
 
 **Wendy Pantoja** es ingeniera electrónica de la Universidad del Nariño, estudiante del Doctorado en Ingeniería en la Universidad de los Andes, con experiencia en lenguajes de programación como C++, Python.
 
-
+![](/images/Wendy-b7ae343f.png)
 
 **Paola Pereira** es abogada de la Universidad del Norte en Barranquilla, con experiencia en género, feminismo interseccional y asesoría legal.
-
-
 
 **Gabriel Infante** es comunicador audiovisual de la Universidad de la Sabana, con amplia experiencia en diseño de interfaz y diseño de experiencia de usuario.
 
