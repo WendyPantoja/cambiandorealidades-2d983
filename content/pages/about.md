@@ -33,10 +33,10 @@ layout: page
 ---
 **Cristina Gaitán** *Marketing*
 
-\*\*\*Wendy Pantoja \**Programadora*
+**Wendy Pantoja ***Programadora*
 
-\*\*\*Paola Pereira \**Asesora Legal*
+**Paola Pereira** *Asesora Legal*
 
-\*\*\*Gabriel Infante \**Diseño de producto*
+**Gabriel Infante ***Diseño de producto*
 
-\*\*\*Julian Prias \**Programador*
+**Julian Prias ***Programador*
