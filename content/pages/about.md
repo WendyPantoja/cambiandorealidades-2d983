@@ -34,7 +34,7 @@ layout: page
 
 **Wendy Pantoja** *Programadora*
 
-**
+
 
 **Paola Pereira** *Asesora Legal*
 
