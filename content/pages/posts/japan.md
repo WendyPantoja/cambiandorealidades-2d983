@@ -1,6 +1,6 @@
 ---
 title: Cómic 2
-date: '2021-11-24'
+date: '2021-11-27'
 thumb_img_path: /images/Ilustración_sin_título 2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: /images/Ilustración_sin_título 2.jpg
