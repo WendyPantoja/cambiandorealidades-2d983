@@ -6,7 +6,10 @@ sections:
     type: section_hero
     title: "Hi, I'm Stackbit Fresh."
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
+      La ficción construye realidad
+Transforma
+Sensibiliza
+AcompañaThis section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
   - section_id: about
     type: section_content
