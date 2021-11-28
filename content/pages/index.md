@@ -17,10 +17,7 @@ sections:
     type: section_posts
     title: comics
     posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
+    actions: []
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
