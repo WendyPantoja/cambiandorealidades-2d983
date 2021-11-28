@@ -29,7 +29,7 @@ sections:
         default_value: Selecciona
         options:
           - Error en el sitio
-          - Sponsorship
+          - S
           - Other
       - input_type: textarea
         name: message
