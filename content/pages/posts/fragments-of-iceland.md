@@ -1,5 +1,5 @@
 ---
-title: Comic 1
+title: Cómic 1
 excerpt: Descripción
 date: '2019-03-27'
 thumb_img_path: /images/Boceto.jpg
