@@ -48,7 +48,17 @@ Comprar
 
 ### MUG 3
 
+![](/images/Mockup%202.png)
 
+Comprar
+
+### Camisas
+
+![](/images/Mockup%203.png)
+
+Comprar
+
+### Sacos
 
 
 
@@ -57,14 +67,6 @@ Comprar
 ### This is an H3
 
 
-
-Comprar
-
-### &#xA;&#xA;This is an H3
-
-Comprar
-
-### &#xA;&#xA;This is an H3
 
 Comprar
 
