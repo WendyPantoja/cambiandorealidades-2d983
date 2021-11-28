@@ -1,6 +1,5 @@
 ---
 title: Cómic 1
-excerpt: Descripción.
 date: '2019-03-27'
 thumb_img_path: /images/Take_A_Break.jpg
 thumb_img_alt: Icelandic horses
