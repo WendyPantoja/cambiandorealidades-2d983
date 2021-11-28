@@ -3,7 +3,7 @@ title: Cómic 4
 subtitle: A cautionary tale about riding
 excerpt: Descripción.
 date: '2018-01-23'
-thumb_img_path: images/3.jpg
+thumb_img_path: /images/Take_A_Break.jpg
 thumb_img_alt: A motorcycle in a forest
 content_img_path: images/3.jpg
 content_img_alt: A motorcycle in a forest
