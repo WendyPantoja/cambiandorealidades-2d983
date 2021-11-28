@@ -6,8 +6,7 @@ sections:
     type: section_hero
     title: "Hi, I'm Stackbit Fresh."
     content: >-
-      La ficción construye realidad, transforma, sensibiliza
-      Acompaña.
+      La ficción construye realidad, transforma, sensibiliza y acompaña.
   - section_id: about
     type: section_content
     title: About
