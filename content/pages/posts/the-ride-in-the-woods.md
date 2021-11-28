@@ -34,7 +34,8 @@ seo:
     - name: 'twitter:description'
       value: A cautionary tale about riding
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: 
+      images/3.jpg
       relativeUrl: true
 layout: post
 ---
