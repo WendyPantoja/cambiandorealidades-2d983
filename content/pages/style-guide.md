@@ -35,19 +35,27 @@ layout: page
 ---
 ### MUG 1
 
-
+![](/images/Mockup%204.png)
 
 Comprar
 
 ### MUG 2
 
+![](/images/Mockup%205.png)
+
+Comprar
+
+### MUG 3
+
+
+
+
+
 Comprar
 
 ### This is an H3
 
-Comprar
 
-### &#xA;&#xA;This is an H3
 
 Comprar
 
