@@ -66,8 +66,6 @@ Comprar
 
 ### This is an H3
 
-
-
 Comprar
 
 ## &#xA;&#xA;&#xA;&#xA;
