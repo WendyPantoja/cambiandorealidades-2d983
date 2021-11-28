@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Cambiando realidades."
+    title: "Cambiando realidades"
     content: >-
       La ficción construye realidad, transforma, sensibiliza y acompaña.
   - section_id: about
