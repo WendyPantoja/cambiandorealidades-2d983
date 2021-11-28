@@ -30,14 +30,23 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Cristina Gaitán** *Marketing*
+**Cristina Gaitán** es comunicadora visual de la Universidad de la Sabana, ilustra, tiene experiencia en modelo de negocio y marketing.
 
-**Wendy Pantoja** *Programadora*
 
-**![](/images/fotoFondoPeque.png)
 
-**Paola Pereira** *Asesora Legal*
+**Wendy Pantoja** es ingeniera electrónica de la Universidad del Nariño, estudiante del Doctorado en Ingeniería en la Universidad de los Andes, con experiencia en lenguajes de programación como C++, Python.
 
-**Gabriel Infante** *Diseño de producto*
+\*\*![](/images/fotoFondoPeque.png)
 
-**Julián Prias** *Programador*
+**Paola Pereira** es abogada de la Universidad del Norte en Barranquilla, con experiencia en género, feminismo interseccional y asesoría legal.
+
+**
+
+**Gabriel Infante** es comunicador audiovisual de la Universidad de la Sabana, con amplia experiencia en diseño de interfaz y diseño de experiencia de usuario.
+
+
+
+**Julián Prias** es ingeniero mecánico de la Universidad de Ibagué, con experiencia en lenguajes de programación como Python, C# y Java.
+
+
+
