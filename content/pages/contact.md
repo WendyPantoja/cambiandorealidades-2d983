@@ -30,7 +30,7 @@ sections:
         options:
           - Error en el sitio
           - Soy artista
-          - Other
+          - Otro
       - input_type: textarea
         name: message
         label: Mensaje
