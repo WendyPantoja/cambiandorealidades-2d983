@@ -1,6 +1,6 @@
 ---
 title: Cómic 1
-date: '2021-11-28'
+date: '2021-11-27'
 thumb_img_path: /images/Take_A_Break.jpg
 thumb_img_alt: Icelandic horses
 content_img_path: /images/Boceto.jpg
