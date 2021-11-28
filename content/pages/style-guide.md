@@ -33,39 +33,27 @@ seo:
       relativeUrl: true
 layout: page
 ---
-## This is an H2
-
-
+### This is an H2
 
 Comprar
 
-## This is an H3
-
-
+### This is an H3
 
 Comprar
 
-## This is an H3
-
-
+### This is an H3
 
 Comprar
 
-## &#xA;&#xA;This is an H3
-
-
+### &#xA;&#xA;This is an H3
 
 Comprar
 
-## &#xA;&#xA;This is an H3
-
-
+### &#xA;&#xA;This is an H3
 
 Comprar
 
-## &#xA;&#xA;This is an H3
-
-
+### &#xA;&#xA;This is an H3
 
 Comprar
 
@@ -90,4 +78,3 @@ La ficción crea realidades.
 3.  Donec id eros eget quam aliquam gravida
 4.  Vivamus convallis urna id felis
 5.  Nulla porta tempus sapien
-
